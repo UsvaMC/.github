@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="imagelobby232.png" alt="Usva">
+  <img src="https://raw.githubusercontent.com/UsvaMC/.github/main/imagelobby232.png" alt="Usva">
 </p>
-
-# Usva
 
 **Usva** on suomalainen Minecraft-palvelin, joka on tehty rennolle ja yhteisölliselle pelaamiselle. Tarkoituksena on pitää palvelin paikkana, jossa on mukava pelata, rakentaa ja viettää aikaa muiden kanssa.
 
