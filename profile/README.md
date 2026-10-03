@@ -6,6 +6,7 @@
 
 Palvelimen kehitys on viime aikoina ollut hidaasta, mutta palvelinta kehitetään jatkuvasti eteenpäin. Myös pelaajien ideat ja palaute ovat tärkeä osa sitä, mihin Usvaa viedään.
 Lähiaikoina on tulossa uusia pelimuotoja ja kaikkea muuta mahtavaa ja hassun hauskaa :)
+Usvan githubiin saattaa tulla satunnaista lähdekoodia ja esim html pätkiä, mutta todella satunnaista. Lähinnä vain ylläpidon keskuudessa käytössä oleva github xD
 
 Palvelimen osoite on `mc.usva.pro`.
 
