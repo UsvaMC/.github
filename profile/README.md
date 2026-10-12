@@ -9,7 +9,7 @@ Lähiaikoina on tulossa uusia pelimuotoja ja kaikkea muuta mahtavaa ja hassun ha
 Usvan githubiin saattaa tulla satunnaista lähdekoodia ja esim html pätkiä, mutta todella satunnaista. Lähinnä vain ylläpidon keskuudessa käytössä oleva github xD
 Jos tulee kysyttävää tai palvelimme kiinnostaa juuri sinua, niin liity ihmeessä Discordiin!
 
-Palvelimen osoite on `mc.usva.pro`.
+Palvelimen osoite on `usva.pro`.
 
 Yhteisö, tiedotteet ja muut keskustelut löytyvät Discordista!
 
