@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/UsvaMC/.github/main/imagelobby232.png" alt="Usva">
 </p>
 
@@ -16,6 +16,9 @@ Palvelimen osoite on `usva.pro`.
 Yhteisö, tiedotteet ja muut keskustelut löytyvät Discordista!
 
 **Verkkosivut:** https://usva.pro
+
 **Discord:** https://discord.gg/FNCUJdqxjK
+
 **YouTube:** https://www.youtube.com/@UsvaMC
+
 **Tiktok:** https://www.tiktok.com/@usvamc
